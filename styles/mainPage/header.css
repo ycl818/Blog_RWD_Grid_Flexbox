@@ -1,0 +1,24 @@
+.header {
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.header__link {
+  text-decoration: none;
+  color: rgb(158, 158, 157);
+  text-decoration: underline;
+}
+
+.header__title a {
+  color: black;
+  text-decoration: underline;
+  margin-right: 30px;
+}
+
+.header__icon img {
+  width: 2vw;
+  height: 2vw;
+}
